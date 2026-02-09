@@ -1,21 +1,26 @@
 # PureAura---AI
-Easing the ability to breath for the residents of the Hong Kong's sub divided units
+ Augmenting Human Agency through Predictive Air Analytics for Subdivided Units in Hong Kong**
 
-PureAura AI redefines urban health through a synergistic Human-AI partnership. In Hong Kong’s 
-subdivided units, residents face invisible respiratory hazards that city-level sensors miss. Our 
-project augments human ingenuity by transforming "black box" environmental data into intuitive, 
-actionable intelligence. 
-Embedding hyper-local AI analytics into Lingnan University’s award-winning innovative air purifier 
-PureAura, our system conducts real-time analysis of historical and environmental data to predict air 
-quality shifts, providing residents with personalized, actionable "nudges."
-Acting as an interactive advisor, PureAura AI sends timely notifications – such as alerts to close 
-windows during peak street-level smog or reminders to activate purifiers – fostering proactive 
-health awareness. Crucially, a human-in-the-loop feedback mechanism allows users to log 
-preferences, refining model accuracy and ensuring alerts remain helpful, not overwhelming. 
-By bridging data science and human intuition, PureAura AI empowers vulnerable communities to 
-outpace environmental hazards, proving that engineering is most impactful when it amplifies human 
-ingenuity.
+## Project Overview
+PureAura AI redefines urban health through a synergistic Human-AI partnership. Our system provides predictive air quality analytics for Hong Kong subdivided unit residents.
 
-References 
-Requirements 
-DB schema
+## HKAE Pitch Competition 2025-26
+Team: Lingnan University  
+Project: PureAura AI: Augmenting Human Agency through Predictive Air Analytics
+
+## Quick Start
+```bash
+# 1. Clone repository
+git clone https://github.com/yourusername/PureAura-AI.git
+cd PureAura-AI
+
+# 2. Setup environment
+make setup
+
+# 3. Start services
+make run
+
+# 4. Access applications
+# Frontend: http://localhost:3000
+# Backend API: http://localhost:8000
+# API Docs: http://localhost:8000/docs
